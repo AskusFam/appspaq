@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#11110f"/>
+  <circle cx="1030" cy="90" r="52" fill="none" stroke="#f1f0eb" stroke-opacity=".25"/>
+  <text x="1004" y="86" fill="#a7a79e" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" letter-spacing="2">IDEAS</text>
+  <text x="1004" y="108" fill="#ccff29" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" letter-spacing="2">IN MOTION</text>
+  <text x="80" y="112" fill="#f1f0eb" font-family="Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="-1">appsparq<tspan fill="#ccff29">.</tspan></text>
+  <text x="80" y="325" fill="#f1f0eb" font-family="Arial, sans-serif" font-size="126" font-weight="700" letter-spacing="-8">Make the</text>
+  <text x="80" y="450" fill="#ccff29" font-family="Arial, sans-serif" font-size="126" font-weight="700" letter-spacing="-8">idea real.</text>
+  <line x1="80" y1="535" x2="1120" y2="535" stroke="#f1f0eb" stroke-opacity=".2"/>
+  <text x="80" y="575" fill="#a7a79e" font-family="Arial, sans-serif" font-size="18" letter-spacing="1">THE EXECUTION PARTNER FOR FOUNDERS</text>
+  <text x="1110" y="575" fill="#ccff29" font-family="Arial, sans-serif" font-size="28" text-anchor="end">↗</text>
+</svg>
