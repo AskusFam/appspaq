@@ -10,4 +10,4 @@ Because this is a static site, open `index.html` directly or use any static serv
 npx serve .
 ```
 
-The primary CTA currently opens an email to `hello@appsparq.com`. Replace that address or swap the link for a form endpoint before launch.
+The primary CTA currently opens an email to `hello@appsparq.studio`. Replace that address or swap the link for a form endpoint before launch.
